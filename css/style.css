@@ -1,0 +1,61 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+} 
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+}
+h1
+h2
+h3
+h4
+h5
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+* {
+	color: darkblue;
+}
+p {
+	color: red;
+}
+.text {
+	color: black;
+}
+p.text {
+color: blueviolet;
+}
+.text.paragraf {
+	color: aqua;
+}
+mark {
+	color: brown;
+}
+div {
+	color: darkorange;
+}
+a {
+	color: black;
+}
+p.text{
+	color: gold;
+}
+#section {
+	color: crimson;
+}
+
+
